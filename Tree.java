@@ -22,6 +22,7 @@ class BinaryTree{
         	return n;
 	}
 	
+	// Insert values on runtime
 	int insert(int value){
         	
                 Node node = newNode(value);
